@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+
+	<veiculo vei_placa ="aaa1111" vei_cor = "lilas" vei_situacao = "livre" vei_modelo = "corsa" vei_tipo = "hatch" />
+	<veiculo vei_placa ="bbb2222" vei_cor = "amarelo" vei_situacao = "ocupado" vei_modelo = "fox" vei_tipo = "hatch" />
+	<veiculo vei_placa ="ccc3333" vei_cor = "amarelo" vei_situacao = "ocupado" vei_modelo = "fox" vei_tipo = "hatch" />
+	
+	
+</dataset>
